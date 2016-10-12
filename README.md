@@ -31,7 +31,7 @@ Repos for my work:
  ## Prerequisite Knowledge
 
 - [ ] **How computers process a program:**
-    - [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
+    - [ ] [How does CPU work (video)](https://www.youtube.com/watch?v=cNN_tTXABUA)
     - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 - [ ] **Compilers**
