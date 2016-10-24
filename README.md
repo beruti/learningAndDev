@@ -17,6 +17,8 @@ Contents
 - [About](#about)
 - [The Daily Plan](#the-daily-plan)
 - [Learning and Upskilling Scala](#learning-and-upskilling-scala)
+- [Learning and Upskilling Rust](#learning-and-upskilling-rust)
+- [Learning and Upskilling C](#learning-and-upskilling-c)
 - [Computer Knowledge](#computer-knowledge)
 - [Algorithmic Complexity](#algorithmic-complexity)
 - [Data Structures](#data-structures)
@@ -66,7 +68,7 @@ Learning and Upskilling Scala
     - [ ] [Type level Programming in Scala](https://apocalisp.wordpress.com/2010/06/08/type-level-programming-in-scala/)
     
  - [x] **Style Guidance**
-    - [ ] [Scala Style Guide](http://docs.scala-lang.org/style/)
+    - [x] [Scala Style Guide](http://docs.scala-lang.org/style/)
     - [x] [Effective Scala](http://twitter.github.io/effectivescala/)
     
  - [ ] **Concurrancy**
@@ -76,14 +78,23 @@ Learning and Upskilling Scala
     
  - [ ] **I'll Implement**
     - [ ] [Implement a Scala Bot](https://scalatron.github.io/)
+    
+Learning and Upskilling Rust
+----------------------------
 
+**TBC**
+
+Learning and Upskilling C
+-------------------------
+
+**TBC**
  
 Computer Knowledge
 ------------------
 
-- [ ] **How computers process a program:**
-    - [x] [How does CPU work (video)](https://www.youtube.com/watch?v=cNN_tTXABUA)
-    - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+- [x] **How computers process a program:**
+    - [x] [How does the CPU work (video)](https://www.youtube.com/watch?v=cNN_tTXABUA)
+    - [x] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 - [ ] **Compilers**
     - [ ] [How a Compiler Works in ~1 minute (video)](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
