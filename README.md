@@ -63,6 +63,8 @@ Learning and Upskilling Scala
     - [ ] [Currying and Partially applied functions](http://danielwestheide.com/blog/2013/01/30/the-neophytes-guide-to-scala-part-11-currying-and-partially-applied-functions.html)
     - [ ] [Type Classes](http://danielwestheide.com/blog/2013/02/06/the-neophytes-guide-to-scala-part-12-type-classes.html)
     - [ ] [Path dependant types](http://danielwestheide.com/blog/2013/02/13/the-neophytes-guide-to-scala-part-13-path-dependent-types.html)
+    - [x] [Types and polymorphism basics](https://twitter.github.io/scala_school/type-basics.html)
+    - [ ] [Advanced Types](https://twitter.github.io/scala_school/advanced-types.html)
     
  - [ ] **Further Concepts**
     - [ ] [Type level Programming in Scala](https://apocalisp.wordpress.com/2010/06/08/type-level-programming-in-scala/)
