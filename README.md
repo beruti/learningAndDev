@@ -15,6 +15,16 @@ Contents
 --------
 
 - [About](#about)
+- [The Daily Plan](#the-daily-plan)
+- [Learning and Upskilling Scala](#learning-and-upskilling-scala)
+- [Computer Knowledge](#computer-knowledge)
+- [Algorithmic Complexity](#algorithmic-complexity)
+- [Data Structures](#data-structures)
+- [Binary and Bitwise](#binary-and-bitwise)
+- [Trees](#trees)
+- [Sorting](#sorting)
+- [Graphs](#graphs)
+- [Even More Knowledge](#even-more-knowledge)
 
 
 The Daily Plan
@@ -29,8 +39,8 @@ Repos for my work:
  - [Rust]()
  - [C]()
 
-Learning & Upskilling Scala
----------------------------
+Learning and Upskilling Scala
+-----------------------------
  
  - [x] **Functional Programming**
     - [x] [Functional programming principles in Scala](https://www.coursera.org/learn/progfun1)
@@ -68,8 +78,8 @@ Learning & Upskilling Scala
     - [ ] [Implement a Scala Bot](https://scalatron.github.io/)
 
  
-Prerequisite Knowledge
----------------------
+Computer Knowledge
+------------------
 
 - [ ] **How computers process a program:**
     - [x] [How does CPU work (video)](https://www.youtube.com/watch?v=cNN_tTXABUA)
@@ -85,8 +95,8 @@ Prerequisite Knowledge
     - [ ] simple 8-bit: [Representation of Floating Point Numbers - 1 (video - there is an error in calculations - see video description)](https://www.youtube.com/watch?v=ji3SfClm8TU)
     - [ ] 32 bit: [IEEE754 32-bit floating point binary (video)](https://www.youtube.com/watch?v=50ZYcZebIec)
 
-Algorithmic complexity / Big-O / Asymptotic analysis
-----------------------------------------------------
+Algorithmic complexity
+----------------------
 
 - nothing to implement
 - [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
@@ -232,8 +242,8 @@ Data Structures
         - get(key)
         - remove(key)
 
-More Knowledge
----------------
+Binary and Bitwise
+------------------
 
 - ### Binary search
     - [ ] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
@@ -586,7 +596,8 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] list strongly connected components
         - [ ] check for bipartite graph
 
-        ## Even More Knowledge
+Even More Knowledge
+-------------------
 
 - ### Recursion
     - [ ] Stanford lectures on recursion & backtracking:
