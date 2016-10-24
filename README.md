@@ -29,8 +29,8 @@ Repos for my work:
  - [Rust]()
  - [C]()
 
- Learning & Upskilling Scala
- ---------------------------
+Learning & Upskilling Scala
+---------------------------
  
  - [x] **Functional Programming**
     - [x] [Functional programming principles in Scala](https://www.coursera.org/learn/progfun1)
