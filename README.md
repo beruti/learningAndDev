@@ -1,7 +1,8 @@
-# Engineering Development
----
+Engineering Development
+=======================
 
-## About
+About
+-----
 
 Inspired by this [Google Interview University study plan](https://github.com/jwasham/google-interview-university) and [a lot of awesome lists](https://github.com/sindresorhus/awesome), I've created my own learning plan to act as a handrail walking me through the journey from novice web-developer to software engineer.
 
@@ -9,15 +10,15 @@ Please feel free to use and abuse and star if you like it.
 
 
 
----
 
-## Contents
+Contents
+--------
 
 - [About](#about)
 
----
 
-## The Daily Plan
+The Daily Plan
+---------------
 
 The areas below are designed to fall into two categories, some that are pure learning and others that are learning with a bit of implementation. Where possible I will aim to include an implementation that is related to the topic.
 
@@ -27,10 +28,9 @@ Repos for my work:
  - [Scala]()
  - [Rust]()
  - [C]()
- 
- ---
- 
- ## Learning & Upskilling Scala
+
+ Learning & Upskilling Scala
+ ---------------------------
  
  - [x] **Functional Programming**
     - [x] [Functional programming principles in Scala](https://www.coursera.org/learn/progfun1)
@@ -63,9 +63,13 @@ Repos for my work:
     - [ ] [Parallel Programming](https://www.coursera.org/learn/parprog1)
     - [ ] [The Actor approach to concurrancy](http://danielwestheide.com/blog/2013/02/27/the-neophytes-guide-to-scala-part-14-the-actor-approach-to-concurrency.html)
     - [ ] [Dealing with Failure in the Actor system](http://danielwestheide.com/blog/2013/03/20/the-neophytes-guide-to-scala-part-15-dealing-with-failure-in-actor-systems.html)
+    
+ - [ ] **I'll Implement**
+    - [ ] [Implement a Scala Bot](https://scalatron.github.io/)
 
- ---
- ## Prerequisite Knowledge
+ 
+Prerequisite Knowledge
+---------------------
 
 - [ ] **How computers process a program:**
     - [x] [How does CPU work (video)](https://www.youtube.com/watch?v=cNN_tTXABUA)
@@ -81,7 +85,9 @@ Repos for my work:
     - [ ] simple 8-bit: [Representation of Floating Point Numbers - 1 (video - there is an error in calculations - see video description)](https://www.youtube.com/watch?v=ji3SfClm8TU)
     - [ ] 32 bit: [IEEE754 32-bit floating point binary (video)](https://www.youtube.com/watch?v=50ZYcZebIec)
 
-## Algorithmic complexity / Big-O / Asymptotic analysis
+Algorithmic complexity / Big-O / Asymptotic analysis
+----------------------------------------------------
+
 - nothing to implement
 - [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
@@ -101,7 +107,8 @@ Repos for my work:
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
 
-## Data Structures
+Data Structures
+---------------
 
 - ### Arrays
     - Implement an automatically resizing vector.
@@ -225,7 +232,8 @@ Repos for my work:
         - get(key)
         - remove(key)
 
-## More Knowledge
+More Knowledge
+---------------
 
 - ### Binary search
     - [ ] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
@@ -262,7 +270,8 @@ Repos for my work:
     - [ ] absolute value:
         - [Absolute Integer](http://bits.stephan-brumme.com/absInteger.html)
 
-## Trees
+Trees
+------
 
 - ### Trees - Notes & Background
     - [ ] [Series: Core Trees (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees)
@@ -449,7 +458,8 @@ Repos for my work:
         - 2-3 trees are 3-ary
     - [ ] [K-Ary Tree](https://en.wikipedia.org/wiki/K-ary_tree)
 
-## Sorting
+Sorting
+--------
 
 - [ ] Notes:
     - Implement sorts & know best case/worst case, average complexity of each:
@@ -513,7 +523,8 @@ Repos for my work:
     - [ ] [Randomization: Matrix Multiply, Quicksort, Freivalds' algorithm (video)](https://www.youtube.com/watch?v=cNB2lADK3_s&index=8&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
     - [ ] [Sorting in Linear Time (video)](https://www.youtube.com/watch?v=pOKy3RZbSws&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf&index=14)
 
-## Graphs
+Graphs
+------
 
 Graphs can be used to represent many problems in computer science, so this section is long, like trees and sorting were.
 
