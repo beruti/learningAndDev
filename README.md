@@ -37,7 +37,7 @@ The areas below are designed to fall into two categories, some that are pure lea
 The aim will be to complete all of the implementations in Scala, Rust and of course C all written with tests to ensure that what I am producing actually works and also to improve my TDD.
 
 Repos for my work:
- - [Scala]()
+ - [Scala](https://github.com/ALRW/scalaWork)
  - [Rust]()
  - [C]()
 
