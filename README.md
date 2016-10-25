@@ -43,6 +43,10 @@ Repos for my work:
 
 Learning and Upskilling Scala
 -----------------------------
+
+ - **Books**
+    - Programming in Scala: A comprehensive step by step guide (Martin Odersky and Lex Spoon)
+    - Functional Programming in Scala (Paul Chiusano and Runar Bjarnason)
  
  - [x] **Functional Programming**
     - [x] [Functional programming principles in Scala](https://www.coursera.org/learn/progfun1)
@@ -64,7 +68,7 @@ Learning and Upskilling Scala
     - [ ] [Type Classes](http://danielwestheide.com/blog/2013/02/06/the-neophytes-guide-to-scala-part-12-type-classes.html)
     - [ ] [Path dependant types](http://danielwestheide.com/blog/2013/02/13/the-neophytes-guide-to-scala-part-13-path-dependent-types.html)
     - [x] [Types and polymorphism basics](https://twitter.github.io/scala_school/type-basics.html)
-    - [ ] [Advanced Types](https://twitter.github.io/scala_school/advanced-types.html)
+    - [x] [Advanced Types](https://twitter.github.io/scala_school/advanced-types.html)
     
  - [ ] **Further Concepts**
     - [ ] [Type level Programming in Scala](https://apocalisp.wordpress.com/2010/06/08/type-level-programming-in-scala/)
@@ -73,7 +77,7 @@ Learning and Upskilling Scala
     - [x] [Scala Style Guide](http://docs.scala-lang.org/style/)
     - [x] [Effective Scala](http://twitter.github.io/effectivescala/)
     
- - [ ] **Concurrancy**
+ - [ ] **Concurrancy and parallelism**
     - [ ] [Parallel Programming](https://www.coursera.org/learn/parprog1)
     - [ ] [The Actor approach to concurrancy](http://danielwestheide.com/blog/2013/02/27/the-neophytes-guide-to-scala-part-14-the-actor-approach-to-concurrency.html)
     - [ ] [Dealing with Failure in the Actor system](http://danielwestheide.com/blog/2013/03/20/the-neophytes-guide-to-scala-part-15-dealing-with-failure-in-actor-systems.html)
@@ -99,8 +103,8 @@ Computer Knowledge
     - [x] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 - [ ] **Compilers**
-    - [ ] [How a Compiler Works in ~1 minute (video)](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
-    - [ ] [Hardvard CS50 - Compilers (video)](https://www.youtube.com/watch?v=CSZLNYF4Klo)
+    - [x] [How a Compiler Works in ~1 minute (video)](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
+    - [x] [Hardvard CS50 - Compilers (video)](https://www.youtube.com/watch?v=CSZLNYF4Klo)
     - [ ] [C++ (video)](https://www.youtube.com/watch?v=twodd1KFfGk)
     - [ ] [Understanding Compiler Optimization (C++) (video)](https://www.youtube.com/watch?v=FnGCDLhaxKU)
 
