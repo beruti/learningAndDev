@@ -71,7 +71,7 @@ Learning and Upskilling Scala
     - [x] [Advanced Types](https://twitter.github.io/scala_school/advanced-types.html)
     
  - [ ] **Further Concepts**
-    - [ ] [Type level Programming in Scala](https://apocalisp.wordpress.com/2010/06/08/type-level-programming-in-scala/)
+    - [ ] [Type level Programming in Scala](https://gigiigig.github.io/tlp-step-by-step/introduction.html)
     
  - [x] **Style Guidance**
     - [x] [Scala Style Guide](http://docs.scala-lang.org/style/)
@@ -83,6 +83,7 @@ Learning and Upskilling Scala
     - [ ] [Dealing with Failure in the Actor system](http://danielwestheide.com/blog/2013/03/20/the-neophytes-guide-to-scala-part-15-dealing-with-failure-in-actor-systems.html)
     
  - [ ] **I'll Implement**
+    - [ ] [Scala Exercism Track]()
     - [ ] [Implement a Scala Bot](https://scalatron.github.io/)
     
 Learning and Upskilling Rust
