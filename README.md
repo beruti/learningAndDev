@@ -35,7 +35,7 @@ The learning below is for general engineering related topics and is not designed
 In addition there are related learning plans for the specific languages I am working with/learning at the moment that also include their own aspects of implementation links to the repos for each of the languages and to the learnign plans are listed below
 
 Links to language learning checklists:
- - [Scala]()
+ - [Scala](https://github.com/ALRW/learningAndDev/blob/master/scalaLearning.md)
  - [Rust]()
  - [C]()
 
