@@ -39,3 +39,54 @@ Learning and Upskilling Scala
     - [ ] [The Actor approach to concurrancy](http://danielwestheide.com/blog/2013/02/27/the-neophytes-guide-to-scala-part-14-the-actor-approach-to-concurrency.html)
     - [ ] [Dealing with Failure in the Actor system](http://danielwestheide.com/blog/2013/03/20/the-neophytes-guide-to-scala-part-15-dealing-with-failure-in-actor-systems.html)
 
+
+Function Programming Implementations
+-----------------------------------
+
+ - [x] **Basic Functions**
+    - [x] fibonacci
+    - [x] isSorted
+    - [x] curry
+    - [x] uncurry
+    - [x] compose
+
+ - [x] **List**
+    - [x] tail
+    - [x] setHead
+    - [x] drop
+    - [x] dropWhile
+    - [x] init
+    - [x] foldLeft
+    - [x] length
+    - [x] foldSum
+    - [x] foldProduct
+    - [x] foldLength
+    - [x] foldAppend
+    - [x] addOne
+    - [x] doubleToString
+    - [x] map
+    - [x] filter
+    - [x] flatMap
+    - [x] flatMapFilter
+    - [x] zipper
+    - [x] zipWith
+
+ - [x] **Tree**
+    - [x] size
+    - [x] maximum
+    - [x] depth
+    - [x] map
+    - [x] fold
+    - [x] sizeViaFold
+    - [x] maximumViaFold
+    - [x] depthViaFold
+    - [x] mapViaFold
+
+ - [ ] **Option**
+    - [x] map
+    - [x] flatMap
+    - [x] getOrElse
+    - [x] orElse
+    - [x] filter
+    - [x] variance
+
