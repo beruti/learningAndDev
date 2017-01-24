@@ -89,4 +89,6 @@ Function Programming Implementations
     - [x] orElse
     - [x] filter
     - [x] variance
+    - [x] map2
+    - [x] sequence
 
