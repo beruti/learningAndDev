@@ -82,7 +82,7 @@ Function Programming Implementations
     - [x] depthViaFold
     - [x] mapViaFold
 
- - [ ] **Option**
+ - [x] **Option**
     - [x] map
     - [x] flatMap
     - [x] getOrElse
@@ -91,4 +91,4 @@ Function Programming Implementations
     - [x] variance
     - [x] map2
     - [x] sequence
-
+    - [x] traverse
