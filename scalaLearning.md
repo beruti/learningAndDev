@@ -92,3 +92,11 @@ Function Programming Implementations
     - [x] map2
     - [x] sequence
     - [x] traverse
+
+ - [ ] **Either**
+    - [x] map
+    - [x] flatMap
+    - [x] orElse
+    - [x] map2
+    - [x] sequence
+    - [x] traverse
