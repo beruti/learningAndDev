@@ -40,7 +40,7 @@ Learning and Upskilling Scala
     - [ ] [Dealing with Failure in the Actor system](http://danielwestheide.com/blog/2013/03/20/the-neophytes-guide-to-scala-part-15-dealing-with-failure-in-actor-systems.html)
 
 
-Function Programming Implementations
+Functional Programming Implementations
 -----------------------------------
 
  - [x] **Basic Functions**
