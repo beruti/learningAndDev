@@ -93,10 +93,22 @@ Functional Programming Implementations
     - [x] sequence
     - [x] traverse
 
- - [ ] **Either**
+ - [x] **Either**
     - [x] map
     - [x] flatMap
     - [x] orElse
     - [x] map2
     - [x] sequence
     - [x] traverse
+
+ - [ ] **Stream**
+    - [x] toList
+    - [x] take
+    - [x] drop
+    - [x] takeWhile
+    - [x] exists
+    - [x] foldRight
+    - [x] foldExists
+    - [x] forAll
+    - [x] foldTakeWhile
+    - [x] headOption 
