@@ -112,3 +112,6 @@ Functional Programming Implementations
     - [x] forAll
     - [x] foldTakeWhile
     - [x] headOption 
+    - [x] map
+    - [x] append
+    - [x] flatMap
