@@ -101,7 +101,7 @@ Functional Programming Implementations
     - [x] sequence
     - [x] traverse
 
- - [ ] **Stream**
+ - [x] **Stream**
     - [x] toList
     - [x] take
     - [x] drop
@@ -115,3 +115,20 @@ Functional Programming Implementations
     - [x] map
     - [x] append
     - [x] flatMap
+    - [x] constant (infinite stream of a single integer n)
+    - [x] from (infinate stream of integers from n)
+    - [x] fibs (infinite stream of fibonacci numbers)
+    - [x] unfold
+    - [x] unfoldOnes
+    - [x] unfoldConstant
+    - [x] unfoldFrom
+    - [x] unfoldfibs
+    - [x] unfoldMap
+    - [x] unfoldTake
+    - [x] unfoldTakeWhile
+    - [x] zipWith
+    - [x] zipAll
+    - [x] startsWith
+    - [x] tails
+    - [x] hasSubsequence
+    - [x] scanRight
